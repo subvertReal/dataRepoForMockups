@@ -1,0 +1,12 @@
+{
+    "drinks":{
+        "milkshake": "13.99",
+        "juice": "5.99"
+    },
+    "platter":{
+        "cheese": "5.99",
+        "joe": "13.99",
+        "egg": "7.99"
+    }
+    
+}
