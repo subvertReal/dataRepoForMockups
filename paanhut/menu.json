@@ -1,15 +1,15 @@
 {
-    "drinks":{
-        "milkshake": "13.99",
-        "juice": "5.99"
-    },
-    "platter":{
+    "Platters":{
         "cheese": "5.99",
         "joe": "13.99",
         "egg": "7.99"
     },
-    "bbq":{
+    "BBQ":{
         "chicken": "5.99"
+    },
+    "Drinks":{
+        "milkshake": "13.99",
+        "juice": "5.99"
     }
     
 }
