@@ -1,21 +1,28 @@
 {
-    "Platters":{
-        "burger": "5.99",
-        "chaana": "13.99",
-        "pasta": "7.99",
-        "a": "5.99",
-        "b": "13.99",
-        "d": "7.99",
-        "e": "5.99",
-        "f": "13.99",
-        "c": "7.99"
+    "Meetha Paan":{
+        "Sweet Paan Special": "2.50",
+        "Khushboo Paan": "2.99",
+        "Chandi Paan": "3.50",
+        "Chocolate Paan": "3.55",
+        "Lahore Paan": "3.99"
     },
-    "BBQ":{
-        "chicken": "5.99"
+    "Chat Bar":{
+        "Bhel Puri": "5.99",
+        "Pani Puri": "6.99",
+        "Delhi Chat Papdi":"8.00",
+        "Dahi Baray": "7.99",
+        "Samosa Chat": "8.00",
+        "Aloo Chat": "8.00"
+    },
+    "Burger":{
+        "Chicken Burger (Halal)":"7.99",
+        "Alo Tikki Burger":"6.99",
+        "Fish Burger": "6.00"
     },
     "Drinks":{
-        "milkshake": "13.99",
-        "falooda": "5.99"
+        "Milkshakes": "6.00",
+        "Royal Lassi": "5.99",
+        "Falooda": "6.99"
     }
     
 }
