@@ -17,7 +17,18 @@
     "Burger":{
         "Chicken Burger (Halal)":"7.99",
         "Alo Tikki Burger":"6.99",
-        "Fish Burger": "6.00"
+        "Fish Burger": "6.00",
+        "Salmon Fish Burger": "9.99",
+        "Beef Burger": "7.00",
+        "Noodle Burger":"8.00",
+        "Bombay Burger":"7.00",
+        "Plater Burger":"7.99",
+
+        "Veggie Paratha Roll":"5.99",
+        "Chicken Paratha Roll":"6.99",
+        "Fish Salmon Paratha Roll":"6.99",
+        "Lattoo Noodles Paratha Roll":"6.99",
+        "Rajma / Channa Chawal":"6.99"
     },
     "Drinks":{
         "Milkshakes": "6.00",
